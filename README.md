@@ -1,7 +1,15 @@
 ## Hi Git 👋
 
-Меня зовут Анна, и я QA Engeneer
-![](https://github-readme-activity-graph.vercel.app/graph?username=AnnaRed13&theme=github-compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=My+name+is+Anna+and+I'm+QA+Engeneer)](https://git.io/typing-svg)
+### About me :sunglasses:
+- Прочитала лучшие книги про тестирование; 📖
+- В тестировании с 2022 года; ✔️
+- Занимаюсь плаванием и бегом; 🏊‍♀️🏃‍♀️
+- Люблю свою семью! 👨‍👩‍👧‍👦
+
+Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
+
+
 
 
 <!--
