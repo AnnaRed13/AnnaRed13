@@ -1,5 +1,5 @@
 ## Hi Git 👋
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=AnnaRed13&theme=github-compact)
 <!--
 **AnnaRed13/AnnaRed13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
