@@ -19,12 +19,12 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
 ### Тестирование API и интеграций 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://raw.githubusercontent.com/AnnaRed13/AnnaRed13/refs/heads/main/assets/logo_postman.png" /> </td>
-    <td> <img width="48" src="https://raw.githubusercontent.com/AnnaRed13/AnnaRed13/refs/heads/main/assets/logo_rest.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_postman.png" /> </td>
+    <td> <img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_rest.png" /></td>
     <td> <img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_soap.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_apachekafka.png" /> </td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_swagger.png" /> </td>
-   <!-- <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/22a3f027f8bea72cbe8c16dd33d2e5450b359486/assets/logo_docker.png" /> </td> -->
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_apachekafka.png" /> </td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_swagger.png" /> </td>
+   <!-- <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_docker.png" /> </td> -->
   </tr>
   <tr align="center">
     <td>Postman</td>
@@ -39,15 +39,15 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
 ### Тестирование Web и Мобильных приложений
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_figma.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_http.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_html.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_css3.png" /></td>
-<!--    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_javascript.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_php.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_firebase.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_androidstudio.png" /></td> -->
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_charles.png" /></td> 
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_figma.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_http.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_html.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_css3.png" /></td>
+<!--    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_javascript.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_php.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_firebase.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_androidstudio.png" /></td> -->
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_charles.png" /></td> 
   </tr>
   <tr align="center">
     <td>Figma</td>
@@ -65,13 +65,13 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
  <!-- ###  Автотесты
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_cypress.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_selenium.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_pytest.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_gitlab.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_github.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_vscode.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_python.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_cypress.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_selenium.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_pytest.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_gitlab.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_github.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_vscode.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_python.png" /></td>
   </tr>
   <tr align="center">
     <td>Cypress</td>
@@ -88,11 +88,11 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
 
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_metabase.png" /></td>
-<!--    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/147ed780957fe9e13878a49dae1836ca332d6de3/assets/logo_mysql.png" /></td> -->
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_postgresql.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_dbeaver.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_mongodb.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_metabase.png" /></td>
+<!--    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_mysql.png" /></td> -->
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_postgresql.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_dbeaver.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_mongodb.png" /></td>
   </tr>
   <tr align="center">
     <td>Metabase</td>
@@ -106,11 +106,11 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
 ### Логи и мониторинги
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_kibana.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_sentry.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_grafana.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_jaegertracing.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_bash.png" /></td>  
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_kibana.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_sentry.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_grafana.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_jaegertracing.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_bash.png" /></td>  
   </tr>
   <tr align="center">
     <td>Kibana</td>
@@ -124,10 +124,10 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
 ### Тестовая документация
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4d4a08c52b33495be63f7f43ff852ed33c4e363f/assets/logo_yandex_tracker.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4d4a08c52b33495be63f7f43ff852ed33c4e363f/assets/logo_testit.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/068dc597a5aba6f344f3bf84d4c41ef4b0784637/assets/logo_buildin.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/65c743bd66e48ffc9757665731780eb3a755858b/assets/logo_miro.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_yandex_tracker.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_testit.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_buildin.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_miro.png" /></td>
   </tr>
   <tr align="center">
     <td>Yandex </br>Tracker</td>
