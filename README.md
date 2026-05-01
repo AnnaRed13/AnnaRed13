@@ -16,6 +16,8 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
 
 ### My tools 🪛
 
+<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
+
 ### Тестирование API и интеграций 
 <table class="table" border="0" width="100%">
   <tr align="center">
