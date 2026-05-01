@@ -26,6 +26,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
     <td> <img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_soap.png" /></td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_apachekafka.png" /> </td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_swagger.png" /> </td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/GraphQL-Dark.png" /> </td>
    <!-- <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_docker.png" /> </td> -->
   </tr>
   <tr align="center">
@@ -34,6 +35,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
     <td>Soap</td>
     <td>Kafka</td>
     <td>Swagger</td>
+    <td>GraphQL</td>
   <!--  <td>Docker</td>  --> 
   </tr>
 </table>
@@ -64,25 +66,39 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>
 
+### Гит
+<table class="table-primer"border="0" width="100%">
+  <tr align="center">
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_gitlab.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_github.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/GithubActions.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/Bash-Dark.png" /></td>
+  </tr>
+  <tr align="center">
+    <td>GitLab</td>
+    <td>GitHub</td>
+    <td>GithubActions</td>
+    <td>Bash</td>
+  </tr>
+</table>
+
  <!-- ###  Автотесты
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_cypress.png" /></td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_selenium.png" /></td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_pytest.png" /></td>
-    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_gitlab.png" /></td>
-    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_github.png" /></td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_vscode.png" /></td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_python.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/Sublime-Dark.png" /></td>
   </tr>
   <tr align="center">
     <td>Cypress</td>
     <td>Selenium</td>
     <td>PyTest</td>
-    <td>GitLab</td>
-    <td>GitHub</td>
     <td>VS Code</td>
     <td>Python</td>
+    <td>Sublime-Dark</td>
   </tr>
 </table>  -->
 
