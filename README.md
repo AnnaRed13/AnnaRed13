@@ -71,14 +71,12 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_gitlab.png" /></td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_github.png" /></td>
-    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/GithubActions.png" /></td>
-    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/Bash-Dark.png" /></td>
+    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/GithubActions-Dark.png" /></td>
   </tr>
   <tr align="center">
     <td>GitLab</td>
     <td>GitHub</td>
-    <td>GithubActions</td>
-    <td>Bash</td>
+    <td>GitHub </br>Actions</td>
   </tr>
 </table>
 
