@@ -137,6 +137,10 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>
 
+## 🤝 How to reach me
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:annared13@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Kavilora)
+
 <!--
 **AnnaRed13/AnnaRed13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
