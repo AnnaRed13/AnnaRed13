@@ -7,18 +7,18 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AnnaRed13&theme=github-light)
 
 ### About me :sunglasses:
-- Прочитала лучшие книги про тестирование; 📖
-- В тестировании с 2022 года; ✔️
-- Занимаюсь плаванием и бегом; 🏊‍♀️🏃‍♀️
+- Прочитала лучшие книги про тестирование 📖
+- В тестировании с 2022 года ✔️
+- Занимаюсь плаванием и бегом 🏊‍♀️🏃‍♀️
 - Люблю свою семью! 👨‍👩‍👧‍👦
 
-Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
+<b>Credo:</b> <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
 
 ### My tools 🪛
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 
-### Тестирование API и интеграций 
+#### Тестирование интеграций и API  
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_postman.png" /> </td>
@@ -40,7 +40,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>
 
-### Тестирование Web и Мобильных приложений
+#### Тестирование Мобильных приложений и Web 
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_figma.png" /></td>
@@ -66,7 +66,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>
 
-### Гит
+#### Гит
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_gitlab.png" /></td>
@@ -80,7 +80,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>
 
- <!-- ###  Автотесты
+ <!-- ####  Автотесты
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_cypress.png" /></td>
@@ -100,7 +100,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>  -->
 
-### Работа с базами данных
+#### Базы данных
 
 <table class="table" border="0" width="100%">
   <tr align="center">
@@ -119,7 +119,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>
 
-### Логи и мониторинги
+#### Логи и мониторинги
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_kibana.png" /></td>
@@ -137,7 +137,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>
 
-### Тестовая документация
+#### Тестовая документация
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_yandex_tracker.png" /></td>
@@ -153,7 +153,7 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
   </tr>
 </table>
 
-## 🤝 How to reach me
+### 🤝 How to reach me
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:annared13@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Kavilora)
 
