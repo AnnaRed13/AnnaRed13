@@ -43,26 +43,26 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_http.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_html.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_css3.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_javascript.png" /></td>
+<!--    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_javascript.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_php.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_firebase.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_androidstudio.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_charles.png" /></td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_androidstudio.png" /></td> -->
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_charles.png" /></td> 
   </tr>
   <tr align="center">
     <td>Figma</td>
     <td>HTTP</td>
     <td>HTML</td>
     <td>CSS</td>
-    <td>JavaScript</td>
+ <!--   <td>JavaScript</td>
     <td>PHP</td>
     <td>Firebase</td>
-    <td>Android Studio</td>
+    <td>Android Studio</td>  -->
     <td>Charles</td>
   </tr>
 </table>
 
-###  Автотесты
+ <!-- ###  Автотесты
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_cypress.png" /></td>
@@ -82,21 +82,21 @@ Credo: <i>Expect bugs. Find bugs. Prevent bugs. Sleep</i>
     <td>VS Code</td>
     <td>Python</td>
   </tr>
-</table>
+</table>  -->
 
 ### Работа с базами данных
 
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_metabase.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/147ed780957fe9e13878a49dae1836ca332d6de3/assets/logo_mysql.png" /></td>
+<!--    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/147ed780957fe9e13878a49dae1836ca332d6de3/assets/logo_mysql.png" /></td> -->
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_postgresql.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_dbeaver.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_mongodb.png" /></td>
   </tr>
   <tr align="center">
     <td>Metabase</td>
-    <td>MySQL</td>
+<!--    <td>MySQL</td> -->
     <td>PostgreSQL</td>
     <td>DBeaver</td>
     <td>Mongo DB</td>
