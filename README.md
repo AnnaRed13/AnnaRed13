@@ -80,11 +80,11 @@
   </tr>
 </table>
 
- <!-- ####  Автотесты
+ ####  Автотесты
 <table class="table-primer"border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_cypress.png" /></td>
-    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_selenium.png" /></td>
+<!--    <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_selenium.png" /></td>  -->
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_pytest.png" /></td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_vscode.png" /></td>
     <td><img width="48" src="https://github.com/AnnaRed13/AnnaRed13/blob/main/assets/logo_python.png" /></td>
@@ -92,13 +92,13 @@
   </tr>
   <tr align="center">
     <td>Cypress</td>
-    <td>Selenium</td>
+<!--     <td>Selenium</td> -->
     <td>PyTest</td>
     <td>VS Code</td>
     <td>Python</td>
     <td>Sublime-Dark</td>
   </tr>
-</table>  -->
+</table> 
 
 #### Базы данных
 
