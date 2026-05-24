@@ -96,7 +96,7 @@
     <td>PyTest</td>
     <td>VS Code</td>
     <td>Python</td>
-    <td>Sublime-Dark</td>
+    <td>Sublime</td>
   </tr>
 </table> 
 
